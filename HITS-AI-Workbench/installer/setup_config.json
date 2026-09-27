@@ -1,0 +1,8 @@
+{
+    "app_name": "HITS AI Workbench",
+    "version": "1.0.0",
+    "publisher": "HITS",
+    "main_script": "../launcher/launcher.py",
+    "include_folders": ["core", "agents", "laya", "orchestration", "backend", "frontend", "tools", "rag", "verification", "audit"],
+    "icon": "icon.ico"
+}
